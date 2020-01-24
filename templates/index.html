@@ -13,7 +13,9 @@
 
 <body>
  <div class="login">
-	<h1>Topic Classification: Food, Music, Movies, Toys, Musical Instruments</h1>
+  <h1>Topic Classification for Amazon Reviews</h1>
+  <h2>Categories: Food, Music, Movies, Books, Clothing, Sports, Musical Instruments, Toys & Games </h2>
+  <p>How it works: enter a phrase and the NLP model will classify it as one of the categories above!</p>
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
@@ -25,7 +27,6 @@
    <br>
    <br>
    {{ prediction }}
-   {{ score }}
 
  </div>
 
