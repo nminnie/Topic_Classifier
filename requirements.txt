@@ -63,7 +63,7 @@ tornado==6.0.1
 tqdm==4.31.1
 traitlets==4.3.2
 Unidecode==1.0.23
-urllib3==1.22
+urllib3==1.24.2
 virtualenv==15.2.0
 virtualenvwrapper-win==1.2.5
 wcwidth==0.1.7
