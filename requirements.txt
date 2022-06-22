@@ -13,7 +13,7 @@ jupyter-core==4.4.0
 MarkupSafe==1.0
 matplotlib==3.1.2
 notebook>=5.7.8
-numpy==1.16.1
+numpy==1.22.0
 pandas==0.25.3
 plotly==2.2.1
 requests>=2.20.0
