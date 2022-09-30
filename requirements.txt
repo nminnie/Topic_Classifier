@@ -5,7 +5,7 @@ ipython==7.3.0
 itsdangerous==0.24
 jedi==0.13.3
 Jinja2>=2.10.1
-joblib==0.14.1
+joblib==1.2.0
 jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
